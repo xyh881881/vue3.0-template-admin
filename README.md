@@ -1,7 +1,7 @@
 # vue3.0-template-admin
 
 <p align="center">
-Vue3.0:
+Vue3.0: 通用魔板
 <a href="https://www.npmjs.com/package/vue/v/next">
     <img src="https://img.shields.io/npm/v/vue/next.svg" alt="vue">
   </a>
